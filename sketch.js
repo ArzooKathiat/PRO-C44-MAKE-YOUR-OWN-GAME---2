@@ -25,7 +25,7 @@ function preload()
 	walkRight = loadImage("../images/rightWalk.png");
 	walkBack = loadImage("../images/backwalk.png");
 	backStop = loadImage("../images/back.png");
-	walkLeft = loadImage("../images/walk.png");
+	walkLeft = loadImage("../images/leftWalk.png");
 }
 
 function setup() {
